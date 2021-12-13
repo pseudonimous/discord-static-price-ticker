@@ -1,0 +1,4 @@
+2021-12-13 12:30:51,523 - Crypto Ticker - DEBUG - Loaded cogs/general.py
+2021-12-13 12:30:51,535 - Crypto Ticker - DEBUG - Loaded cogs/help.py
+2021-12-13 12:30:51,585 - Crypto Ticker - DEBUG - Loaded cogs/ticker.py
+2021-12-13 12:30:51,986 - Crypto Ticker - INFO - Exiting gracefully...
