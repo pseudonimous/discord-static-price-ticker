@@ -1,0 +1,1 @@
+# discord-static-price-ticker
